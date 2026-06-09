@@ -7,6 +7,7 @@ Practice programs for Data Structures and Algorithms in C++.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0075-sort-colors) |
@@ -27,6 +28,7 @@ Practice programs for Data Structures and Algorithms in C++.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0075-sort-colors) |
@@ -54,5 +56,6 @@ Practice programs for Data Structures and Algorithms in C++.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [2007-find-original-array-from-doubled-array](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2007-find-original-array-from-doubled-array) |
 <!---LeetCode Topics End-->
