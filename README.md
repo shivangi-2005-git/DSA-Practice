@@ -10,6 +10,7 @@ Practice programs for Data Structures and Algorithms in C++.
 | [0011-container-with-most-water](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0075-sort-colors) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1329-sort-the-matrix-diagonally](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1329-sort-the-matrix-diagonally) |
@@ -18,6 +19,7 @@ Practice programs for Data Structures and Algorithms in C++.
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0075-sort-colors) |
 | [1329-sort-the-matrix-diagonally](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1329-sort-the-matrix-diagonally) |
 | [2007-find-original-array-from-doubled-array](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2007-find-original-array-from-doubled-array) |
@@ -52,10 +54,15 @@ Practice programs for Data Structures and Algorithms in C++.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0049-group-anagrams) |
 | [2007-find-original-array-from-doubled-array](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2007-find-original-array-from-doubled-array) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [2007-find-original-array-from-doubled-array](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2007-find-original-array-from-doubled-array) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
