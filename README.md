@@ -21,6 +21,7 @@ Practice programs for Data Structures and Algorithms in C++.
 | [0976-largest-perimeter-triangle](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0976-largest-perimeter-triangle) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1329-sort-the-matrix-diagonally](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1329-sort-the-matrix-diagonally) |
+| [1706-where-will-the-ball-fall](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1706-where-will-the-ball-fall) |
 | [2007-find-original-array-from-doubled-array](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2007-find-original-array-from-doubled-array) |
 ## Sorting
 |  |
@@ -37,6 +38,7 @@ Practice programs for Data Structures and Algorithms in C++.
 | ------- |
 | [0766-toeplitz-matrix](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0766-toeplitz-matrix) |
 | [1329-sort-the-matrix-diagonally](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1329-sort-the-matrix-diagonally) |
+| [1706-where-will-the-ball-fall](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1706-where-will-the-ball-fall) |
 ## Two Pointers
 |  |
 | ------- |
@@ -60,6 +62,7 @@ Practice programs for Data Structures and Algorithms in C++.
 |  |
 | ------- |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0985-sum-of-even-numbers-after-queries) |
+| [1706-where-will-the-ball-fall](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1706-where-will-the-ball-fall) |
 ## Hash Table
 |  |
 | ------- |
