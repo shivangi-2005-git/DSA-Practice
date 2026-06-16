@@ -25,6 +25,7 @@ Practice programs for Data Structures and Algorithms in C++.
 | [0985-sum-of-even-numbers-after-queries](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [0997-find-the-town-judge](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0997-find-the-town-judge) |
 | [1329-sort-the-matrix-diagonally](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1329-sort-the-matrix-diagonally) |
+| [1345-jump-game-iv](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1345-jump-game-iv) |
 | [1706-where-will-the-ball-fall](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1706-where-will-the-ball-fall) |
 | [2007-find-original-array-from-doubled-array](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2007-find-original-array-from-doubled-array) |
 | [2256-minimum-average-difference](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2256-minimum-average-difference) |
@@ -80,6 +81,7 @@ Practice programs for Data Structures and Algorithms in C++.
 | [0645-set-mismatch](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0645-set-mismatch) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0997-find-the-town-judge](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0997-find-the-town-judge) |
+| [1345-jump-game-iv](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1345-jump-game-iv) |
 | [2007-find-original-array-from-doubled-array](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2007-find-original-array-from-doubled-array) |
 ## Greedy
 |  |
@@ -129,4 +131,8 @@ Practice programs for Data Structures and Algorithms in C++.
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0997-find-the-town-judge) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1345-jump-game-iv](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1345-jump-game-iv) |
 <!---LeetCode Topics End-->
