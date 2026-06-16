@@ -23,6 +23,7 @@ Practice programs for Data Structures and Algorithms in C++.
 | [0974-subarray-sums-divisible-by-k](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0976-largest-perimeter-triangle](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0976-largest-perimeter-triangle) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0985-sum-of-even-numbers-after-queries) |
+| [0997-find-the-town-judge](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0997-find-the-town-judge) |
 | [1329-sort-the-matrix-diagonally](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1329-sort-the-matrix-diagonally) |
 | [1706-where-will-the-ball-fall](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1706-where-will-the-ball-fall) |
 | [2007-find-original-array-from-doubled-array](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2007-find-original-array-from-doubled-array) |
@@ -78,6 +79,7 @@ Practice programs for Data Structures and Algorithms in C++.
 | [0523-continuous-subarray-sum](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0645-set-mismatch](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0645-set-mismatch) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0997-find-the-town-judge](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0997-find-the-town-judge) |
 | [2007-find-original-array-from-doubled-array](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2007-find-original-array-from-doubled-array) |
 ## Greedy
 |  |
@@ -123,4 +125,8 @@ Practice programs for Data Structures and Algorithms in C++.
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0918-maximum-sum-circular-subarray) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
