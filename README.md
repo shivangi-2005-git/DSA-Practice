@@ -150,4 +150,8 @@ Practice programs for Data Structures and Algorithms in C++.
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1254-number-of-closed-islands) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
