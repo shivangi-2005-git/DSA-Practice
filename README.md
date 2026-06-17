@@ -16,6 +16,7 @@ Practice programs for Data Structures and Algorithms in C++.
 | [0334-increasing-triplet-subsequence](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0523-continuous-subarray-sum](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
+| [0605-can-place-flowers](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0766-toeplitz-matrix) |
@@ -89,6 +90,7 @@ Practice programs for Data Structures and Algorithms in C++.
 | [0011-container-with-most-water](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0605-can-place-flowers](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0605-can-place-flowers) |
 | [0976-largest-perimeter-triangle](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0976-largest-perimeter-triangle) |
 | [2007-find-original-array-from-doubled-array](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2007-find-original-array-from-doubled-array) |
 ## String
