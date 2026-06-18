@@ -11,6 +11,7 @@ Practice programs for Data Structures and Algorithms in C++.
 | [0016-3sum-closest](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0049-group-anagrams) |
+| [0059-spiral-matrix-ii](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0075-sort-colors) |
 | [0219-contains-duplicate-ii](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0334-increasing-triplet-subsequence) |
@@ -48,6 +49,7 @@ Practice programs for Data Structures and Algorithms in C++.
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0059-spiral-matrix-ii) |
 | [0766-toeplitz-matrix](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0766-toeplitz-matrix) |
 | [1020-number-of-enclaves](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1254-number-of-closed-islands) |
@@ -76,6 +78,7 @@ Practice programs for Data Structures and Algorithms in C++.
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0059-spiral-matrix-ii) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1706-where-will-the-ball-fall](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1706-where-will-the-ball-fall) |
 ## Hash Table
