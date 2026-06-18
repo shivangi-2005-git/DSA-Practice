@@ -28,6 +28,7 @@ Practice programs for Data Structures and Algorithms in C++.
 | [1254-number-of-closed-islands](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [1329-sort-the-matrix-diagonally](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1329-sort-the-matrix-diagonally) |
 | [1345-jump-game-iv](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1345-jump-game-iv) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1706-where-will-the-ball-fall](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1706-where-will-the-ball-fall) |
 | [2007-find-original-array-from-doubled-array](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2007-find-original-array-from-doubled-array) |
 | [2256-minimum-average-difference](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2256-minimum-average-difference) |
