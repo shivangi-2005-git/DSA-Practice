@@ -21,6 +21,7 @@ Practice programs for Data Structures and Algorithms in C++.
 | [0645-set-mismatch](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0766-toeplitz-matrix) |
+| [0864-shortest-path-to-get-all-keys](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0918-maximum-sum-circular-subarray](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0976-largest-perimeter-triangle](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0976-largest-perimeter-triangle) |
@@ -52,6 +53,7 @@ Practice programs for Data Structures and Algorithms in C++.
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0059-spiral-matrix-ii) |
 | [0766-toeplitz-matrix](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0766-toeplitz-matrix) |
+| [0864-shortest-path-to-get-all-keys](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0864-shortest-path-to-get-all-keys) |
 | [1020-number-of-enclaves](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [1329-sort-the-matrix-diagonally](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1329-sort-the-matrix-diagonally) |
@@ -129,6 +131,7 @@ Practice programs for Data Structures and Algorithms in C++.
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0645-set-mismatch) |
+| [0864-shortest-path-to-get-all-keys](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0864-shortest-path-to-get-all-keys) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -148,6 +151,7 @@ Practice programs for Data Structures and Algorithms in C++.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0864-shortest-path-to-get-all-keys](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0864-shortest-path-to-get-all-keys) |
 | [1020-number-of-enclaves](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [1345-jump-game-iv](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1345-jump-game-iv) |
