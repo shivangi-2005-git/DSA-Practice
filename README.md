@@ -33,6 +33,7 @@ Practice programs for Data Structures and Algorithms in C++.
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1706-where-will-the-ball-fall](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1706-where-will-the-ball-fall) |
 | [2007-find-original-array-from-doubled-array](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2007-find-original-array-from-doubled-array) |
+| [2090-k-radius-subarray-averages](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2090-k-radius-subarray-averages) |
 | [2256-minimum-average-difference](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2256-minimum-average-difference) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Sorting
@@ -123,6 +124,7 @@ Practice programs for Data Structures and Algorithms in C++.
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
+| [2090-k-radius-subarray-averages](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2090-k-radius-subarray-averages) |
 ## Bit Manipulation
 |  |
 | ------- |
