@@ -37,6 +37,7 @@ Practice programs for Data Structures and Algorithms in C++.
 | [2090-k-radius-subarray-averages](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2090-k-radius-subarray-averages) |
 | [2256-minimum-average-difference](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2256-minimum-average-difference) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2348-number-of-zero-filled-subarrays) |
+| [2551-put-marbles-in-bags](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2551-put-marbles-in-bags) |
 ## Sorting
 |  |
 | ------- |
@@ -48,6 +49,7 @@ Practice programs for Data Structures and Algorithms in C++.
 | [0976-largest-perimeter-triangle](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0976-largest-perimeter-triangle) |
 | [1329-sort-the-matrix-diagonally](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1329-sort-the-matrix-diagonally) |
 | [2007-find-original-array-from-doubled-array](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2007-find-original-array-from-doubled-array) |
+| [2551-put-marbles-in-bags](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2551-put-marbles-in-bags) |
 ## Matrix
 |  |
 | ------- |
@@ -105,6 +107,7 @@ Practice programs for Data Structures and Algorithms in C++.
 | [0605-can-place-flowers](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0605-can-place-flowers) |
 | [0976-largest-perimeter-triangle](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0976-largest-perimeter-triangle) |
 | [2007-find-original-array-from-doubled-array](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2007-find-original-array-from-doubled-array) |
+| [2551-put-marbles-in-bags](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2551-put-marbles-in-bags) |
 ## String
 |  |
 | ------- |
@@ -171,4 +174,8 @@ Practice programs for Data Structures and Algorithms in C++.
 | [0175-combine-two-tables](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0182-duplicate-emails) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2551-put-marbles-in-bags](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2551-put-marbles-in-bags) |
 <!---LeetCode Topics End-->
