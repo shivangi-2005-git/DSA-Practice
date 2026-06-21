@@ -13,6 +13,7 @@ Practice programs for Data Structures and Algorithms in C++.
 | [0049-group-anagrams](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0059-spiral-matrix-ii](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0075-sort-colors) |
+| [0215-kth-largest-element-in-an-array](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
@@ -46,6 +47,7 @@ Practice programs for Data Structures and Algorithms in C++.
 | [0016-3sum-closest](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0075-sort-colors) |
+| [0215-kth-largest-element-in-an-array](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0645-set-mismatch](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0645-set-mismatch) |
@@ -145,6 +147,7 @@ Practice programs for Data Structures and Algorithms in C++.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
 |  |
@@ -185,5 +188,10 @@ Practice programs for Data Structures and Algorithms in C++.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [2551-put-marbles-in-bags](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2551-put-marbles-in-bags) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
