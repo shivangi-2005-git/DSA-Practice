@@ -121,6 +121,7 @@ Practice programs for Data Structures and Algorithms in C++.
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0049-group-anagrams) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -128,6 +129,7 @@ Practice programs for Data Structures and Algorithms in C++.
 | [0724-find-pivot-index](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2256-minimum-average-difference](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2256-minimum-average-difference) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Math
 |  |
 | ------- |
