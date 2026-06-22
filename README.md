@@ -33,6 +33,7 @@ Practice programs for Data Structures and Algorithms in C++.
 | [0997-find-the-town-judge](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0997-find-the-town-judge) |
 | [1020-number-of-enclaves](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1254-number-of-closed-islands) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1329-sort-the-matrix-diagonally](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1329-sort-the-matrix-diagonally) |
 | [1345-jump-game-iv](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1345-jump-game-iv) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -106,6 +107,7 @@ Practice programs for Data Structures and Algorithms in C++.
 | [0645-set-mismatch](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0645-set-mismatch) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0997-find-the-town-judge](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0997-find-the-town-judge) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1345-jump-game-iv](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1345-jump-game-iv) |
 | [2007-find-original-array-from-doubled-array](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2007-find-original-array-from-doubled-array) |
 ## Greedy
@@ -117,6 +119,7 @@ Practice programs for Data Structures and Algorithms in C++.
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0605-can-place-flowers) |
 | [0976-largest-perimeter-triangle](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0976-largest-perimeter-triangle) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [2007-find-original-array-from-doubled-array](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2007-find-original-array-from-doubled-array) |
 | [2551-put-marbles-in-bags](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2551-put-marbles-in-bags) |
 ## String
