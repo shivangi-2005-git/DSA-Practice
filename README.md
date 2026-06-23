@@ -16,6 +16,7 @@ Practice programs for Data Structures and Algorithms in C++.
 | [0118-pascals-triangle](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
+| [0287-find-the-duplicate-number](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -78,6 +79,7 @@ Practice programs for Data Structures and Algorithms in C++.
 | [0016-3sum-closest](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0075-sort-colors) |
+| [0287-find-the-duplicate-number](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -152,6 +154,7 @@ Practice programs for Data Structures and Algorithms in C++.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0645-set-mismatch) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0864-shortest-path-to-get-all-keys) |
 ## Divide and Conquer
@@ -210,5 +213,6 @@ Practice programs for Data Structures and Algorithms in C++.
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 <!---LeetCode Topics End-->
