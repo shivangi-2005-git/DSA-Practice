@@ -203,6 +203,7 @@ Practice programs for Data Structures and Algorithms in C++.
 | [0182-duplicate-emails](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0182-duplicate-emails) |
 | [0577-employee-bonus](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0584-find-customer-referee) |
+| [0596-classes-with-at-least-5-students](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0596-classes-with-at-least-5-students) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
