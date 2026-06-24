@@ -27,6 +27,7 @@ Practice programs for Data Structures and Algorithms in C++.
 | [0724-find-pivot-index](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0766-toeplitz-matrix) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0864-shortest-path-to-get-all-keys) |
+| [0896-monotonic-array](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
