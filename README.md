@@ -40,6 +40,7 @@ Practice programs for Data Structures and Algorithms in C++.
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1345-jump-game-iv](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1345-jump-game-iv) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1706-where-will-the-ball-fall](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1706-where-will-the-ball-fall) |
 | [2007-find-original-array-from-doubled-array](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2007-find-original-array-from-doubled-array) |
 | [2090-k-radius-subarray-averages](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2090-k-radius-subarray-averages) |
@@ -117,6 +118,7 @@ Practice programs for Data Structures and Algorithms in C++.
 | [0997-find-the-town-judge](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0997-find-the-town-judge) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1345-jump-game-iv](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1345-jump-game-iv) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2007-find-original-array-from-doubled-array](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2007-find-original-array-from-doubled-array) |
 ## Greedy
 |  |
@@ -141,6 +143,7 @@ Practice programs for Data Structures and Algorithms in C++.
 | [0523-continuous-subarray-sum](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2256-minimum-average-difference](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2256-minimum-average-difference) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Math
@@ -153,6 +156,7 @@ Practice programs for Data Structures and Algorithms in C++.
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2090-k-radius-subarray-averages](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2090-k-radius-subarray-averages) |
 ## Bit Manipulation
 |  |
@@ -220,4 +224,5 @@ Practice programs for Data Structures and Algorithms in C++.
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
