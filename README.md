@@ -14,6 +14,7 @@ Practice programs for Data Structures and Algorithms in C++.
 | [0059-spiral-matrix-ii](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0118-pascals-triangle) |
+| [0169-majority-element](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
@@ -54,6 +55,7 @@ Practice programs for Data Structures and Algorithms in C++.
 | [0016-3sum-closest](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -112,6 +114,7 @@ Practice programs for Data Structures and Algorithms in C++.
 | ------- |
 | [0001-two-sum](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0523-continuous-subarray-sum](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0645-set-mismatch](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0645-set-mismatch) |
@@ -168,6 +171,7 @@ Practice programs for Data Structures and Algorithms in C++.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
@@ -228,4 +232,8 @@ Practice programs for Data Structures and Algorithms in C++.
 | [0287-find-the-duplicate-number](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
