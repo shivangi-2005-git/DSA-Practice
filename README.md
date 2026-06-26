@@ -211,6 +211,7 @@ Practice programs for Data Structures and Algorithms in C++.
 | [0596-classes-with-at-least-5-students](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0596-classes-with-at-least-5-students) |
 | [0610-triangle-judgement](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0610-triangle-judgement) |
 | [0627-swap-sex-of-employees](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0627-swap-sex-of-employees) |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
