@@ -14,6 +14,7 @@ Practice programs for Data Structures and Algorithms in C++.
 | [0059-spiral-matrix-ii](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
@@ -96,6 +97,7 @@ Practice programs for Data Structures and Algorithms in C++.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0119-pascals-triangle-ii) |
 | [0435-non-overlapping-intervals](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0542-01-matrix) |
 | [0918-maximum-sum-circular-subarray](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0918-maximum-sum-circular-subarray) |
