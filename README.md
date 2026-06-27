@@ -46,6 +46,7 @@ Practice programs for Data Structures and Algorithms in C++.
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1706-where-will-the-ball-fall](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1706-where-will-the-ball-fall) |
 | [2007-find-original-array-from-doubled-array](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2007-find-original-array-from-doubled-array) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2090-k-radius-subarray-averages](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2090-k-radius-subarray-averages) |
 | [2256-minimum-average-difference](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2256-minimum-average-difference) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -127,6 +128,7 @@ Practice programs for Data Structures and Algorithms in C++.
 | [1345-jump-game-iv](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1345-jump-game-iv) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2007-find-original-array-from-doubled-array](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2007-find-original-array-from-doubled-array) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 ## Greedy
 |  |
 | ------- |
@@ -164,6 +166,7 @@ Practice programs for Data Structures and Algorithms in C++.
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2090-k-radius-subarray-averages](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2090-k-radius-subarray-averages) |
 ## Bit Manipulation
 |  |
@@ -235,6 +238,7 @@ Practice programs for Data Structures and Algorithms in C++.
 | [0287-find-the-duplicate-number](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 ## Counting
 |  |
 | ------- |
