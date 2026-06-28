@@ -53,6 +53,7 @@ Practice programs for Data Structures and Algorithms in C++.
 | [2090-k-radius-subarray-averages](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2090-k-radius-subarray-averages) |
 | [2256-minimum-average-difference](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2256-minimum-average-difference) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2348-number-of-zero-filled-subarrays) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2551-put-marbles-in-bags](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2551-put-marbles-in-bags) |
 ## Sorting
 |  |
@@ -151,6 +152,7 @@ Practice programs for Data Structures and Algorithms in C++.
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0049-group-anagrams) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Prefix Sum
 |  |
@@ -160,6 +162,7 @@ Practice programs for Data Structures and Algorithms in C++.
 | [0974-subarray-sums-divisible-by-k](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2256-minimum-average-difference](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2256-minimum-average-difference) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Math
 |  |
