@@ -40,6 +40,7 @@ Practice programs for Data Structures and Algorithms in C++.
 | [1020-number-of-enclaves](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1329-sort-the-matrix-diagonally](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1329-sort-the-matrix-diagonally) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1345-jump-game-iv](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1345-jump-game-iv) |
