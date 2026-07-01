@@ -57,6 +57,7 @@ Practice programs for Data Structures and Algorithms in C++.
 | [2256-minimum-average-difference](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2256-minimum-average-difference) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2551-put-marbles-in-bags](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2551-put-marbles-in-bags) |
 ## Sorting
 |  |
@@ -89,6 +90,7 @@ Practice programs for Data Structures and Algorithms in C++.
 | [1329-sort-the-matrix-diagonally](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1329-sort-the-matrix-diagonally) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1706-where-will-the-ball-fall](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1706-where-will-the-ball-fall) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 ## Two Pointers
 |  |
 | ------- |
@@ -123,6 +125,7 @@ Practice programs for Data Structures and Algorithms in C++.
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1706-where-will-the-ball-fall](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1706-where-will-the-ball-fall) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 ## Hash Table
 |  |
 | ------- |
