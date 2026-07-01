@@ -49,6 +49,7 @@ Practice programs for Data Structures and Algorithms in C++.
 | [1535-find-the-winner-of-an-array-game](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1630-arithmetic-subarrays](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1630-arithmetic-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1706-where-will-the-ball-fall](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1706-where-will-the-ball-fall) |
 | [2007-find-original-array-from-doubled-array](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2007-find-original-array-from-doubled-array) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
@@ -165,6 +166,7 @@ Practice programs for Data Structures and Algorithms in C++.
 | [0724-find-pivot-index](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2256-minimum-average-difference](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2256-minimum-average-difference) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -173,6 +175,7 @@ Practice programs for Data Structures and Algorithms in C++.
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0976-largest-perimeter-triangle](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0976-largest-perimeter-triangle) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Sliding Window
 |  |
