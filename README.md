@@ -48,6 +48,7 @@ Practice programs for Data Structures and Algorithms in C++.
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1630-arithmetic-subarrays](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1630-arithmetic-subarrays) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1706-where-will-the-ball-fall](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1706-where-will-the-ball-fall) |
@@ -76,6 +77,7 @@ Practice programs for Data Structures and Algorithms in C++.
 | [1329-sort-the-matrix-diagonally](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1329-sort-the-matrix-diagonally) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1630-arithmetic-subarrays](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1630-arithmetic-subarrays) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [2007-find-original-array-from-doubled-array](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2007-find-original-array-from-doubled-array) |
 | [2551-put-marbles-in-bags](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2551-put-marbles-in-bags) |
 ## Matrix
