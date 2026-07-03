@@ -246,6 +246,7 @@ Practice programs for Data Structures and Algorithms in C++.
 | [1211-queries-quality-and-percentage](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1280-students-and-examinations) |
+| [1407-top-travellers](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1407-top-travellers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
