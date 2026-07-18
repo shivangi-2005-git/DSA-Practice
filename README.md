@@ -273,4 +273,8 @@ Practice programs for Data Structures and Algorithms in C++.
 |  |
 | ------- |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
