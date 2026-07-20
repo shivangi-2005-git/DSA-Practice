@@ -63,6 +63,7 @@ Practice programs for Data Structures and Algorithms in C++.
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2551-put-marbles-in-bags](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2551-put-marbles-in-bags) |
+| [3101-count-alternating-subarrays](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/3101-count-alternating-subarrays) |
 ## Sorting
 |  |
 | ------- |
@@ -190,6 +191,7 @@ Practice programs for Data Structures and Algorithms in C++.
 | [0976-largest-perimeter-triangle](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0976-largest-perimeter-triangle) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2348-number-of-zero-filled-subarrays) |
+| [3101-count-alternating-subarrays](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/3101-count-alternating-subarrays) |
 ## Sliding Window
 |  |
 | ------- |
