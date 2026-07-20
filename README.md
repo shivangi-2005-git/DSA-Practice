@@ -9,6 +9,7 @@ Practice programs for Data Structures and Algorithms in C++.
 | [0001-two-sum](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0016-3sum-closest) |
+| [0041-first-missing-positive](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0059-spiral-matrix-ii](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0059-spiral-matrix-ii) |
@@ -137,6 +138,7 @@ Practice programs for Data Structures and Algorithms in C++.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
