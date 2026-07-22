@@ -17,6 +17,7 @@ Practice programs for Data Structures and Algorithms in C++.
 | [0118-pascals-triangle](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0229-majority-element-ii) |
@@ -90,6 +91,7 @@ Practice programs for Data Structures and Algorithms in C++.
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0059-spiral-matrix-ii) |
+| [0200-number-of-islands](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0542-01-matrix) |
 | [0766-toeplitz-matrix](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0766-toeplitz-matrix) |
@@ -228,6 +230,7 @@ Practice programs for Data Structures and Algorithms in C++.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0542-01-matrix) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0864-shortest-path-to-get-all-keys) |
@@ -237,12 +240,14 @@ Practice programs for Data Structures and Algorithms in C++.
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0463-island-perimeter) |
 | [1020-number-of-enclaves](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1254-number-of-closed-islands) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0200-number-of-islands) |
 | [1020-number-of-enclaves](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1254-number-of-closed-islands) |
 ## Database
