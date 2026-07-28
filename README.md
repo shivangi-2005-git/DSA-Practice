@@ -55,6 +55,7 @@ Practice programs for Data Structures and Algorithms in C++.
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1701-average-waiting-time](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1701-average-waiting-time) |
 | [1706-where-will-the-ball-fall](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1706-where-will-the-ball-fall) |
 | [2007-find-original-array-from-doubled-array](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2007-find-original-array-from-doubled-array) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
@@ -136,6 +137,7 @@ Practice programs for Data Structures and Algorithms in C++.
 | [0985-sum-of-even-numbers-after-queries](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1535-find-the-winner-of-an-array-game) |
+| [1701-average-waiting-time](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1701-average-waiting-time) |
 | [1706-where-will-the-ball-fall](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1706-where-will-the-ball-fall) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
