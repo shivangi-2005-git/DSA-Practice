@@ -12,6 +12,7 @@ Practice programs for Data Structures and Algorithms in C++.
 | [0041-first-missing-positive](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0118-pascals-triangle) |
@@ -91,6 +92,7 @@ Practice programs for Data Structures and Algorithms in C++.
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0059-spiral-matrix-ii) |
 | [0200-number-of-islands](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0463-island-perimeter) |
@@ -133,6 +135,7 @@ Practice programs for Data Structures and Algorithms in C++.
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0059-spiral-matrix-ii) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/shivangi-2005-git/DSA-Practice/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
